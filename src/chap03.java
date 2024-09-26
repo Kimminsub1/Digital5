@@ -1,5 +1,3 @@
-package chap01;
-
 public class chap03 {
 
 	public static void main(String[] args) {
